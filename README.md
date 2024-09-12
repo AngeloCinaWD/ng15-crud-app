@@ -14,4 +14,4 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 [ThksTo](https://www.youtube.com/watch?v=4mKY_yDq64g&ab_channel=TechnicalBabaji)
 
-[json server 0.17.4 installato globalmente](https://www.npmjs.com/package/json-server/v/0.17.4)
+[json server installato localmente utilizzare npm per runnare il comando](https://www.npmjs.com/package/json-server)
